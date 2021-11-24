@@ -1,0 +1,38 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#manulbutton , #automaticbutton
+{
+font-size: 18px;
+margin-top: 30px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+    background-color: yellow;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px rgb(219, 60, 60);
+    border:10px;
+    margin-top:30px;
+    
+}
+
+#copyright
+{
+    position:fixed;
+    color: rgb(75, 211, 221);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(228, 78, 58);
+    line-height: 3;
+    text-align: center;
+}
